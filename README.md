@@ -1,5 +1,12 @@
-# My solution for containous/jobs
-This is my solution for the funny puzzle used by Containous company.  
+# ⚠️ **PWNED!** Rotate secrets! ⚠️
+
+---
+
+# [alebedev87](https://github.com/alebedev87)'s cool solution for containous/jobs
+
+> Andrey did a fantastic job at this, and I learned some new Docker ps arguments from his work.
+
+This is Andrey's solution for the funny puzzle used by Containous company.  
 The puzzle is available as a Docker image: `containous/jobs`.
 
 ## Previous Containous puzzle
